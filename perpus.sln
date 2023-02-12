@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "perpus", "perpus\perpus.csproj", "{75F8BF7A-C1B4-4420-AE54-259A3D17AAF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F8BF7A-C1B4-4420-AE54-259A3D17AAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F8BF7A-C1B4-4420-AE54-259A3D17AAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F8BF7A-C1B4-4420-AE54-259A3D17AAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F8BF7A-C1B4-4420-AE54-259A3D17AAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97CCEEF9-00FA-4A9F-805A-5AB453E554C1}
+	EndGlobalSection
+EndGlobal
